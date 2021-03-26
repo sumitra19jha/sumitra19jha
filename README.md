@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sumitra, a final year undergraduate student from IIT(ISM) Dhnabad.
+I am Sumitra, a final year undergraduate student from IIT(ISM) Dhanbad.
 
 <!--
 **sumitra19jha/sumitra19jha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
