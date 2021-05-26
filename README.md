@@ -2,7 +2,7 @@
 
 I am Sumitra, I am a Full-Stack developer with artistic taste and technical skills achieved via remarkable contributions by working for startups, NGOs, Open source contribution and self projects. I have completed B.Tech in Petroleum Engineering from [Indian Institute of Technology Dhanbad](https://www.iitism.ac.in).
 
-My current work is at Palisadoes Foundation for [Google Summer of Codes 2021](https://summerofcode.withgoogle.com/projects/4823491037102080). My project experiences involves using various tech stacks and languages (like Flutter, Rest API's, Graph API's, MongoDB, Python, Docker and AWS) to develop a effecient and effective solution for making a significant business impact.
+My current work is at [Palisadoes Foundation](https://github.com/PalisadoesFoundation/talawa) for [Google Summer of Codes 2021](https://summerofcode.withgoogle.com/projects/4823491037102080). My project experiences involves using various tech stacks and languages (like Flutter, Rest API's, Graph API's, MongoDB, Python, Docker and AWS) to develop a effecient and effective solution for making a significant business impact.
 
 
 <!--
