@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-I am Sumitra, a final year undergraduate student from IIT(ISM) Dhanbad.
+I am Sumitra, I am a Full-Stack developer with artistic taste and technical skills achieved via remarkable contributions by working for startups, NGOs, Open source contribution and self projects. I have completed B.Tech in Petroleum Engineering from Indian Institute of Technology Dhanbad.
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=sumitra19jha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitra19jha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
-</p>
-
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
-</p> -->
+My current work is for open source contribution at Palisadoes Foundation by Google Summer of Codes 2021. The project experiences involves using various tech stacks and languages (like Flutter, Rest API's, Graph API's, MongoDB, Python, Docker and AWS) to develop a effecient and effective solution for making a significant business impact.
 
 
 <!--
