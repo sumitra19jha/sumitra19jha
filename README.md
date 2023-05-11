@@ -1,21 +1,37 @@
-### Hi there 👋
+# 👋 Hi, I'm Sumitra Saksham
 
-I am Sumitra, I am a Full-Stack developer with artistic taste and technical skills achieved via remarkable contributions by working for startups, NGOs, Open source contribution and self projects. I have completed B.Tech in Petroleum Engineering from [Indian Institute of Technology Dhanbad](https://www.iitism.ac.in).
+I'm a passionate Full-Stack Software Engineer with a proven track record of delivering high-quality, scalable, and innovative solutions in fast-paced environments. With experience in backend development, frontend development, and cloud deployment, I'm ready to tackle new challenges and contribute to the growth of cutting-edge technologies.
 
-My recent work was at [Palisadoes Foundation](https://github.com/PalisadoesFoundation/talawa) for [Google Summer of Codes 2021](https://summerofcode.withgoogle.com/projects/4823491037102080). My project experiences involves using various tech stacks and languages (like Flutter, Rest API's, Graph API's, MongoDB, Python, Docker and AWS) to develop a clean and scalable solution.
+🔭 **My Tech Stack:**
+- Languages: Python, JavaScript, Dart
+- Front-end: React, Flutter
+- Back-end: Flask, Node.js, GraphQL, and Socket.io
+- Databases: MySQL, PostgreSQL
+- Messaging Systems: Kafka
+- Cloud Services: AWS EC2, S3
+- Version Control: Git
 
+💼 **Work Experience:**
+- Backend Developer at Learngram Pvt Ltd
+- Network and Replenishment Planner at Hilti India Pvt Ltd
+- Mentor, Github Externship Program 2022
+- Student Software Developer at Palisadoes Foundation, Google Summer of Codes 2021
+- Cofounder at Limbic Resonance Pvt Ltd
 
-<!--
-**Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education:**
+- Indian Institute of Technology, Dhanbad, 2021
 
-Here are some ideas to get you started:
+🌟 **Projects:**
+- [AssistantHub](https://assistanthub.in/): A website that leverages advanced LLMs like GPT-3.5 and GPT-4 to provide valuable SEO strategies, content suggestions, and social media post generation.
+- [ThirdEye](https://play.google.com/store/apps/details?id=com.thirdeyedevelopers.third_eye_shop_manager): A Order and employee management app
+- [Vyaparkar](https://play.google.com/store/apps/details?id=com.vyaparkar.merchant) Inventory Management for Phone sellers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Connect with me:**
+- [LinkedIn](https://linkedin.com/in/sumitra-saksham-749bba76/)
+- [GitHub](https://github.com/sumitra19jha)
+
+⚡ **Fun fact:** I enjoy traveling, photography, and exploring new cultures in my free time.
+
+📚 **Currently learning:** Expanding my knowledge in the field of AI and machine learning, and exploring containerization technologies like Docker and Kubernetes.
+
+💬 **Let's collaborate:** I'm open to working on open-source projects and collaborating on innovative ideas to make a difference in the world of technology.
