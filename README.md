@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Software Engineer with a proven track record of deli
 - Cofounder at Limbic Resonance Pvt Ltd
 
 🎓 **Education:**
-- Indian Institute of Technology, Dhanbad, 2021
+- Indian Institute of Technology, Dhanbad, 2017
 
 🌟 **Projects:**
 - [AssistantHub](https://assistanthub.in/): A website that leverages advanced LLMs like GPT-3.5 and GPT-4 to provide valuable SEO strategies, content suggestions, and social media post generation.
