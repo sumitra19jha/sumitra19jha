@@ -3,7 +3,7 @@
 I'm a passionate Full-Stack Software Engineer with a proven track record of delivering high-quality, scalable, and innovative solutions in fast-paced environments. With experience in backend development, frontend development, and cloud deployment, I'm ready to tackle new challenges and contribute to the growth of cutting-edge technologies.
 
 🔭 **My Tech Stack:**
-- Languages: Python, JavaScript, Dart
+- Languages: Python, Java, JavaScript, Dart
 - Front-end: React, Flutter
 - Back-end: Flask, Node.js, GraphQL, and Socket.io
 - Databases: MySQL, PostgreSQL
