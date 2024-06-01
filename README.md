@@ -6,14 +6,15 @@ I'm a passionate Full-Stack Software Engineer with a proven track record of deli
 - Languages: Python, Java, JavaScript, Dart
 - Front-end: React, Flutter
 - Back-end: Flask, Node.js, GraphQL, and Socket.io
-- Databases: MySQL, PostgreSQL
-- Messaging Systems: Kafka
+- Databases: MySQL, PostgreSQL, Apache Pinot
+- Messaging Systems: Kafka, Flink
 - Cloud Services: AWS EC2, S3
 - Version Control: Git
 
 💼 **Work Experience:**
-- Backend Developer at Learngram Pvt Ltd
-- Network and Replenishment Planner at Hilti India Pvt Ltd
+- Software Engineer II at Simpleenergy
+- Software Engineer I at Learngram Pvt Ltd
+- Software Engineer I at Hilti India Pvt Ltd
 - Mentor, Github Externship Program 2022
 - Student Software Developer at Palisadoes Foundation, Google Summer of Codes 2021
 - Cofounder at Limbic Resonance Pvt Ltd
